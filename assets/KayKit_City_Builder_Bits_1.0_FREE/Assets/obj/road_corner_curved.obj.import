@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://p1frqdf6itig"
+path="res://.godot/imported/road_corner_curved.obj-a5b7e70ca4277add011900a350cb68f1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/road_corner_curved.obj-a5b7e70ca4277add011900a350cb68f1.mesh"]
+
+source_file="res://assets/KayKit_City_Builder_Bits_1.0_FREE/Assets/obj/road_corner_curved.obj"
+dest_files=["res://.godot/imported/road_corner_curved.obj-a5b7e70ca4277add011900a350cb68f1.mesh", "res://.godot/imported/road_corner_curved.obj-a5b7e70ca4277add011900a350cb68f1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
